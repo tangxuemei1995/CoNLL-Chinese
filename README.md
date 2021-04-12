@@ -24,8 +24,9 @@ conll-2012-scripts.v3.tar.gz
 
 解析数据：
 
+'''Python
 bash ./conll-2012/v3/scripts/skeleton2conll.sh -D ./ontonotes-release-5.0/data/files/data $./conll-2012
-
+'''
 然后将所有数据合在一起
 
 生成：
