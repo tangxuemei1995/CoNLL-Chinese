@@ -35,3 +35,6 @@ train.chinese.v4_gold_conll
 
 dev.chinese.v4_gold_conll
 
+#数据下载：
+
+链接: https://pan.baidu.com/s/1EA79A79_osm0_IM06k4SWA  密码: l6mf
